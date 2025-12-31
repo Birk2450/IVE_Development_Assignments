@@ -18,7 +18,7 @@ IVE_Development_Assignments/
    └─ IVE_Assignment2_HogansAlley.pdf
 ```
 
-The Unity Project ZIP can be found in a Google Drive link further down.
+The Unity Project ZIP for Assignment 2 can be found in a Google Drive link further down.
 
 ---
 
