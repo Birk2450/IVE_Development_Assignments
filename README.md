@@ -15,9 +15,10 @@ IVE_Development_Assignments/
 │  └─ Assignment1_AR_VR_Birk.pdf
 └─ Assignment2/
    ├─ HoganAlley.apk
-   ├─ HoganAlley_UnityProject.zip
    └─ IVE_Assignment2_HogansAlley.pdf
 ```
+
+The Unity Project ZIP can be found in a Google Drive link further down.
 
 ---
 
