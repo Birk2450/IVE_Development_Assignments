@@ -7,15 +7,16 @@ This repository contains deliverables for the course
 
 ## Repository Structure
 
-Assignment1/
-├── 1_1_VR/
-├── 1_2_AR/
-└── Assignment1_AR_VR_Birk.pdf
-
-Assignment2/
-├── HoganAlley.apk
-├── HoganAlley_UnityProject.zip
-└── IVE_Assignment2_HogansAlley.pdf
+```text
+IVE_Development_Assignments/
+├─ Assignment1/
+│  ├─ 1_1_VR/
+│  ├─ 1_2_AR/
+│  └─ Assignment1_AR_VR_Birk.pdf
+└─ Assignment2/
+   ├─ HoganAlley.apk
+   ├─ HoganAlley_UnityProject.zip
+   └─ IVE_Assignment2_HogansAlley.pdf
 
 
 ---
@@ -35,13 +36,15 @@ No artificial locomotion is used to reduce motion sickness.
 
 ---
 
-### Deliverables
-- **Android APK**  
-  `Assignment2/HoganAlleyRevisited/HoganAlley.apk`
-- **Unity Project Sources**  
-  `Assignment2/HoganAlleyRevisited/HoganAlley_UnityProject.zip`
-- **Documentation (PDF)**  
-  `Assignment2/HoganAlleyRevisited/IVE_Assignment2_HogansAlley.pdf`
+### Deliverables:
+- `Assignment2/HogansAlley_Birk.apk` – Android APK (playable demo)
+- `Assignment2/IVE_Assignment2_HogansAlley.pdf` – Documentation/report
+
+Unity project sources:
+Due to file size constraints on GitHub and Moodle, the Unity project source archive is hosted externally:
+
+🔗 Unity Project ZIP (Google Drive):  
+https://drive.google.com/file/d/1prC9lk9dPDhvvNnUI5cayK-3iK6ypjkQ/view?usp=sharing 
 
 ---
 
